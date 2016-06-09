@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Steve Smith", 
+	"team" : "Australia",
+	"date":["2010"],	
+	"span": 6,	
+	"innings":75,	
+	"not_out":11,	
+	"runs":3852,	
+	"HS":215,
+	"Average":60.18,
+	"100s":14,
+	"50s":16,
+	"MoM":6
+}
+}

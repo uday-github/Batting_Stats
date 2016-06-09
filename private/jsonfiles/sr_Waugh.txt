@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Steve Waugh", 
+	"team" : "Australia",
+	"date":["1985"],	
+	"span": 19,	
+	"innings": 260,	
+	"not_out":46,	
+	"runs":10927,	
+	"HS":200,
+	"Average":51.06,
+	"100s":	32,
+	"50s":50,
+	"MoM":14
+}
+}

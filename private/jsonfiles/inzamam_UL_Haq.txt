@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Inzamam-Ul-Haq", 
+	"team" : "Pakistan",
+	"date":["1992"],	
+	"span": 15,	
+	"innings": 200,	
+	"not_out":22,	
+	"runs":8830,	
+	"HS":329,
+	"Average":49.60,
+	"100s":25,
+	"50s":46,
+	"MoM":9
+}
+}

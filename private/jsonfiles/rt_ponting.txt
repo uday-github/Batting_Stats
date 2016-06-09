@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Ricky Ponting", 
+	"team" : "Australia",
+	"date":["1995"],	
+	"span": 17,	
+	"innings": 287,	
+	"not_out":29,	
+	"runs":13378,	
+	"HS":257,
+	"Average":51.85,
+	"100s":	41,
+	"50s":62,
+	"MoM":16
+}
+}

@@ -1,0 +1,97 @@
+<head>
+  <title>song_data_viz</title>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:700' rel='stylesheet' type='text/css'>
+  <script src="vis.js"></script>
+</head>
+
+<body>
+<!--
+<div class="container">
+  {{> song_viz}}
+</div>
+-->
+</body>
+
+<template name = "ApplicationLayout">
+  {{> yield "main"}}
+ </template>
+
+<template name = "welcome">
+	<div class = "container">
+		<div class = "jumbotron">
+			<h1> Welcome to Cricket Stats ! </h1>
+			<p> Cricket is a funny sport. It's played with a bat and ball, 2 teams with 11 players each side. While one team bats the other side fields. The side batting tries to get as many runs possible and the fielding side tries to chase down the score when it is their turn to bat. We will look into the batting statistics of some of the great players to play Test Cricket.</p>
+			<a href = "/batting_stats" class = "btn btn-info"> Enter the application. </a>	
+		</div>
+	</div>
+</template>
+
+<template name="song_viz">
+	<div class = "container">
+		<div class="row">
+			<div class="col-md-6">
+					{{> song_viz_controls}}
+					{{> song_feature_list}}
+			</div>
+			<div class="col-md-6">
+					{{> song_vizjs}}
+			</div>
+		</div>
+	</div>
+</template>
+
+<template name="song_viz_controls">
+	<form>
+		<!-- list of available single features -->
+		Batting Statistics: Select the statistic and the view to see a visualization against a timeline when the cricketers started their career. 
+		<br/>
+		<select class="js-select-single-feature">
+			{{#each get_feature_names "single"}}
+			<option value="{{name}}">{{name}}</option>
+			{{/each}}
+		</select>
+		<button class="btn js-show-blobs">blobs</button>
+		<button class="btn js-show-timeline">timeline</button>
+
+	</form>
+</template>	
+
+
+<template name="song_feature_list">
+	
+	{{#if get_selected_stat}}
+	   <div class = "well well-sm">
+	   		<h2 class = "capitalize"> {{get_selected_stat.name}} </h2>  
+	   		<p> {{get_selected_stat.desc}} </p>
+	   </div>
+	{{/if}}
+	<ul>	
+	{{#if get_selected_stat}}	
+		<span class = "list_header"> Batsman </span>  - <span class = "list_header"> Country </span> : <span class = "list_header capitalize"> {{get_selected_stat.name}} </span> 
+	{{/if}}
+
+	{{#each get_all_feature_values}}
+			<li>{{player}} - {{team}}: {{value}}</li>
+	{{/each}}
+	</ul>
+</template>
+
+<template name="song_vizjs">
+	<div id="visjs"></div>
+	<div class = "container">
+		<select class="js-select-single-feature_1">
+			{{#each get_feature_names "single"}}
+			<option value="{{name}}">{{name}}</option>
+			{{/each}}
+		</select>
+			v/s
+		<select class="js-select-single-feature_2">
+			{{#each get_feature_names "single"}}
+			<option value="{{name}}">{{name}}</option>
+			{{/each}}
+		</select>
+		<button class="btn js-show-scatter">Plot</button>
+	</div>
+	<div id = "visjs_1"></div>
+</template>
+

@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Sir Garlfield Sobers", 
+	"team" : "West Indies",
+	"date":["1954"],	
+	"span": 20,	
+	"innings":160,	
+	"not_out":21,	
+	"runs":8032,	
+	"HS":365,
+	"Average":57.78,
+	"100s":26,
+	"50s":30,
+	"MoM":0
+}
+}

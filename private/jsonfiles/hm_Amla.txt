@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Hashim Amla", 
+	"team" : "South Africa",
+	"date":["2004"],	
+	"span": 12,	
+	"innings":156,	
+	"not_out":13,	
+	"runs":7358,	
+	"HS":311,
+	"Average":51.45,
+	"100s":25,
+	"50s":29,
+	"MoM":6
+}
+}

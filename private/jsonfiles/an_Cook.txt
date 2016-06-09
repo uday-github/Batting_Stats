@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Alistair Cook", 
+	"team" : "England",
+	"date":["2006"],	
+	"span": 10,	
+	"innings": 229,	
+	"not_out":13,	
+	"runs":10042,	
+	"HS":294,
+	"Average":46.49,
+	"100s":	28,
+	"50s":47,
+	"MoM":6
+}
+}

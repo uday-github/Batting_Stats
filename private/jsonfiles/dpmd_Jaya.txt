@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Mahela Jayawardene", 
+	"team" : "Sri Lanka",
+	"date":["1997"],	
+	"span": 17,	
+	"innings": 252,	
+	"not_out":15,	
+	"runs":11814,	
+	"HS":374,
+	"Average":49.84,
+	"100s":	34,
+	"50s":50,
+	"MoM":13
+}
+}

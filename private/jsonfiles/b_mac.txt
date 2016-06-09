@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Brendon McCullum", 
+	"team": "NZ",
+	"date":["2004"],	
+	"span": 15,	
+	"innings": 176,	
+	"not_out":9,	
+	"runs":6453,	
+	"HS":302,
+	"Average":38.64,
+	"100s":12,
+	"50s":31,
+	"MoM":5
+}
+}

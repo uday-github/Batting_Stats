@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Younis Khan", 
+	"team" : "Pakistan",
+	"date":["2000"],	
+	"span": 15,	
+	"innings": 186,	
+	"not_out":17,	
+	"runs":9116,	
+	"HS":313,
+	"Average":53.94,
+	"100s":31,
+	"50s":30,
+	"MoM":9
+}
+}

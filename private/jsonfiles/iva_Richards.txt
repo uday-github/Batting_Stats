@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Vivian Richards", 
+	"team" : "West Indies",
+	"date":["1974"],	
+	"span": 17,	
+	"innings":182,	
+	"not_out":12,	
+	"runs":8540,	
+	"HS":291,
+	"Average":50.23,
+	"100s":24,
+	"50s":45,
+	"MoM":10
+}
+}

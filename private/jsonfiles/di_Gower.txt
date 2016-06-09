@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"David Gower", 
+	"team" : "England",
+	"date":["1978"],	
+	"span": 14,	
+	"innings":204,	
+	"not_out":18,	
+	"runs":8231,	
+	"HS":215,
+	"Average":44.25,
+	"100s":18,
+	"50s":39,
+	"MoM":5
+}
+}

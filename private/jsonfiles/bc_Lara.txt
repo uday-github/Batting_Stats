@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Brian Lara", 
+	"team" : "West Indies",
+	"date":["1990"],	
+	"span": 16,	
+	"innings": 232,	
+	"not_out":6,	
+	"runs":11953,	
+	"HS":400,
+	"Average":52.88,
+	"100s":	34,
+	"50s":48,
+	"MoM":12
+}
+}

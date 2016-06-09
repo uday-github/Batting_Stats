@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Graham Gooch", 
+	"team" : "England",
+	"date":["1975"],	
+	"span": 20,	
+	"innings": 215,	
+	"not_out":6,	
+	"runs":8900,	
+	"HS":333,
+	"Average":42.58,
+	"100s":20,
+	"50s":46,
+	"MoM":9
+}
+}

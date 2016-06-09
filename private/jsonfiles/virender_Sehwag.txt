@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Virender Sehwag", 
+	"team" : "India",
+	"date":["2001"],	
+	"span": 12,	
+	"innings":180,	
+	"not_out":6,	
+	"runs":8586,	
+	"HS":319,
+	"Average":49.34,
+	"100s":23,
+	"50s":32,
+	"MoM":8
+}
+}

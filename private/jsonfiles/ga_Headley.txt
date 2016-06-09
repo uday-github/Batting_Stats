@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"George Headley", 
+	"team" : "West Indies",
+	"date":["1930"],	
+	"span": 24,	
+	"innings":40,	
+	"not_out":4,	
+	"runs":2190,	
+	"HS":270,
+	"Average":60.83,
+	"100s":10,
+	"50s":5,
+	"MoM":0
+}
+}

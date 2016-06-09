@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Javed Miandad", 
+	"team" : "Pakistan",
+	"date":["1976"],	
+	"span": 17,	
+	"innings": 189,	
+	"not_out":21,	
+	"runs":8832,	
+	"HS":280,
+	"Average":52.57,
+	"100s":23,
+	"50s":43,
+	"MoM":5
+}
+}

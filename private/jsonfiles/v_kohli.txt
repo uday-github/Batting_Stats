@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Virat Kohli", 
+	"team" : "India",
+	"date":["2011"],	
+	"span": 5,	
+	"innings": 72,	
+	"not_out":4,	
+	"runs":2994,	
+	"HS":169,
+	"Average":44.02,
+	"100s":	11,
+	"50s":12,
+	"MoM":2
+}
+}

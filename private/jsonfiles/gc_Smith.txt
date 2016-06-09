@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Graeme Smith", 
+	"team" : "South Africa",
+	"date":["2002"],	
+	"span": 12,	
+	"innings": 205,	
+	"not_out":13,	
+	"runs":9265,	
+	"HS":277,
+	"Average":48.25,
+	"100s":27,
+	"50s":38,
+	"MoM":12
+}
+}

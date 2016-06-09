@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Mark Waugh", 
+	"team" : "Australia",
+	"date":["1991"],	
+	"span": 11,	
+	"innings":209,	
+	"not_out":17,	
+	"runs":8029,	
+	"HS":153,
+	"Average":41.81,
+	"100s":20,
+	"50s":47,
+	"MoM":5
+}
+}

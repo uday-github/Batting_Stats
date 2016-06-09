@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Jacques Kallis", 
+	"team" : "South Africa",
+	"date":["1995"],	
+	"span": 18,	
+	"innings": 280,	
+	"not_out":40,	
+	"runs":13289,	
+	"HS":224,
+	"Average":55.37,
+	"100s":	45,
+	"50s":58,
+	"MoM":23
+}
+}

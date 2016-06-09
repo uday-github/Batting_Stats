@@ -1,0 +1,26 @@
+/* CSS declarations go here */
+
+#visjs{
+	height:500px;
+}
+.vis-label{
+	fill-opacity:0;
+}
+
+.vis-label:hover{
+	fill-opacity:1;
+}
+
+.capitalize {
+	text-transform: capitalize;
+}
+
+.well {
+	margin: 15px;
+}
+
+.list_header {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	margin: 5px;
+}

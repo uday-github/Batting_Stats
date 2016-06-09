@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Kevin Pietersen", 
+	"team" : "England",
+	"date":["2005"],	
+	"span": 9,	
+	"innings":181,	
+	"not_out":8,	
+	"runs":8181,	
+	"HS":227,
+	"Average":47.28,
+	"100s":23,
+	"50s":35,
+	"MoM":10
+}
+}

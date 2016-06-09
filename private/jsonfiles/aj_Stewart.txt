@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Alec Stewart", 
+	"team" : "England",
+	"date":["1990"],	
+	"span": 13,	
+	"innings":235,	
+	"not_out":21,	
+	"runs":8463,	
+	"HS":190,
+	"Average":39.54,
+	"100s":15,
+	"50s":45,
+	"MoM":7
+}
+}

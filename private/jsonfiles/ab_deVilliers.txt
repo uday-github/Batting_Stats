@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"AB DeVilliers", 
+	"team" : "South Africa",
+	"date":["2004"],	
+	"span": 12,	
+	"innings":176,	
+	"not_out":16,	
+	"runs":8074,	
+	"HS":278,
+	"Average":50.46,
+	"100s":21,
+	"50s":39,
+	"MoM":5
+}
+}

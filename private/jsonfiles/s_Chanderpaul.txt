@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Shivnarine Chanderpaul", 
+	"team" : "West Indies",
+	"date":["1994"],	
+	"span": 21,	
+	"innings": 280,	
+	"not_out":49,	
+	"runs":11867,	
+	"HS":203,
+	"Average":51.37,
+	"100s":	30,
+	"50s":66,
+	"MoM":11
+}
+}

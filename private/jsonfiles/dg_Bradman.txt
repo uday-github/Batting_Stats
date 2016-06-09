@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Sir Donald Bradman", 
+	"team" : "Australia",
+	"date":["1928"],	
+	"span": 20,	
+	"innings":80,	
+	"not_out":10,	
+	"runs":6996,	
+	"HS":334,
+	"Average":99.94,
+	"100s":29,
+	"50s":13,
+	"MoM":0
+}
+}

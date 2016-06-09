@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Sachin Tendulkar", 
+	"team" : "India",	
+	"date":["1989"],
+	"span": 24,	
+	"innings": 329,	
+	"not_out":33,	
+	"runs":15921,	
+	"HS":248,
+	"Average":53.78,
+	"100s":	51,
+	"50s":68,
+	"MoM":14
+}
+}

@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Kumar Sangakkara", 
+	"team" : "Sri Lanka",
+	"date":["2000"],	
+	"span": 15,	
+	"innings": 233,	
+	"not_out":17,	
+	"runs":12400,	
+	"HS":319,
+	"Average":57.40,
+	"100s":	38,
+	"50s":52,
+	"MoM":16
+}
+}

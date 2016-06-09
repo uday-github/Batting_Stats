@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Walter Hammond ", 
+	"team" : "England",
+	"date":["1927"],	
+	"span": 20,	
+	"innings":140,	
+	"not_out":16,	
+	"runs":7249,	
+	"HS":336,
+	"Average":58.45,
+	"100s":22,
+	"50s":34,
+	"MoM":0
+}
+}

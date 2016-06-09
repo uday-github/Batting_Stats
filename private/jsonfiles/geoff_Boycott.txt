@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Geoffery Boycott", 
+	"team" : "England",
+	"date":["1964"],	
+	"span": 18,	
+	"innings":193,	
+	"not_out":23,	
+	"runs":8114,	
+	"HS":246,
+	"Average":47.72,
+	"100s":22,
+	"50s":42,
+	"MoM":1
+}
+}

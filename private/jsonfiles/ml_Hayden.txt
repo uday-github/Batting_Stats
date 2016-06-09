@@ -1,0 +1,16 @@
+{
+"stats": {
+	"name":"Matthew Hayden", 
+	"team" : "Australia",
+	"date":["1994"],	
+	"span": 15,	
+	"innings": 184,	
+	"not_out":14,	
+	"runs":8625,	
+	"HS":380,
+	"Average":50.73,
+	"100s":30,
+	"50s":29,
+	"MoM":10
+}
+}
