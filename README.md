@@ -7,7 +7,7 @@ timeline, blob plot of the statistics. Also, one can compare different
 statistics vs each other.
 
 ## Screenshot
-(/Cricket_stats/Cricket_Stats_homepage.png "Homepage") 
+![Homepage](Cricket_stats/Cricket_Stats_homepage.png "Homepage") 
 
 
 
