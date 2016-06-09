@@ -6,7 +6,8 @@ most famous test cricketers in the world. The application gives a
 timeline, blob plot of the statistics. Also, one can compare different
 statistics vs each other.
 
-Screenshots of the application. 
+## Screenshot
+![Batting-Statitics](Cricket_stats/Cricket_Stats_homepage.pngpng "Homepage") 
 
 
 
